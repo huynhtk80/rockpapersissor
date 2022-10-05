@@ -1,0 +1,14 @@
+{
+  "name": "rockpapersissors",
+  "version": "0.1.0",
+  "description": "Rock, Paper, Sissors terminal game",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tim",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
